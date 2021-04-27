@@ -4,8 +4,6 @@ pragma solidity ^0.8.0;
 
 import "./CryptoFifaUtils.sol";
 
-//0x2b0AcCe4F29Cbb009f884f986228074E31314dFd
-
 contract Blockable is AccessControl {
     using EnumerableSet for EnumerableSet.AddressSet;
     EnumerableSet.AddressSet private _blocklist;
