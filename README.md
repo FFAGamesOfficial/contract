@@ -1,2 +1,2 @@
 # Website
-https://cryptofifa.com
+https://ffa.games
